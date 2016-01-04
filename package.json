@@ -1,0 +1,28 @@
+{
+  "name": "binary-practice",
+  "version": "1.0.0",
+  "description": "A simple project to convert strings to binary.",
+  "main": "binary-conversion.js",
+  "scripts": {
+    "test": "conversion-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mannette/binary-conversion.git"
+  },
+  "keywords": [
+    "Binary",
+    "Conversion",
+    "Convert"
+  ],
+  "author": "Ethan Mannette <ethanmannette@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mannette/binary-conversion/issues"
+  },
+  "homepage": "https://github.com/Mannette/binary-conversion#readme",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "sass": "^0.5.0"
+  }
+}
